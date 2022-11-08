@@ -14,6 +14,6 @@ Sunrise Time
 Sunset Time
 
 # Utilized
-Backend: Python, Calling Weather API
+Backend: Python Backend APIs, Calling Weather API
 
 Frontend: React & Flask
